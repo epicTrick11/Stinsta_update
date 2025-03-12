@@ -1,0 +1,18 @@
+    {
+        "Stinsta_updates": [
+            {
+        "version": "11.0"
+        "title":"Update Disposible",
+        "description":"STInstaGram Official V11.
+        
+    Base:372.0.0.0.23
+        
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        
+    Nuevo Systema de Actualización 
+     
+    Actualización AntiBaneo disponible"
+    "download":"https://t.me/EpicTrickChannel".
+    }
+       ]
+    }
